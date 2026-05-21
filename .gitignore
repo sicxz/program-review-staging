@@ -1,0 +1,7 @@
+DESN Dept/
+.DS_Store
+.playwright-mcp/
+tmp/
+*.log
+desn-self-study-*.png
+
