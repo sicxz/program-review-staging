@@ -4,7 +4,7 @@ Form: PRC/PRD Self Study Questions 2026/2027 (Google Form; 1,500-character limit
 
 **Status (July 15, 2026): all seven answers revised and re-verified in fact-check round three.** Drafted from the DESN Dept folder, EWU's current strategic plan, and the May 2026 LinkedIn alumni check; fact-checked through three adversarial review rounds (15 reviewers round one, 3 round two, 43 verification agents round three on July 15). Every answer is under the 1,500-character limit.
 
-- **Google Doc for editing/review (full notes + answers, share this with the chair):** https://docs.google.com/document/d/1gM5KnlqEmtQY-Qy1J65UNwyB7qFhG4kNHwoGny62YjA/edit — supersedes the earlier answers-only Draft Answers doc. **Note: the Google Doc still carries the pre-round-three text — refresh it from these answers.**
+- **Google Doc for editing/review (full notes + answers, share this with the chair):** https://docs.google.com/document/d/1T1_7CJhKBZVcoV-WkgVGAq5QT42V6NSuKFACfrOYJl4/edit — fresh round-three copy generated July 15, 2026; supersedes the earlier July 15 Working Notes doc (1gM5Knlq…) and the answers-only Draft Answers doc.
 - **Staging site:** `site/index.html` (restyled July 2026 with the scheduler-v2 design system: GitHub Primer + EWU crimson, Sora / IBM Plex Mono)
 - **Word doc:** `output/doc/DESN Program Review Self-Study Notes.docx`
 
@@ -73,7 +73,7 @@ Unnamed in-answer references: Malati Powell (Spokesman-Review), Emma Orndorff (E
 6. Optional strengtheners: add a 2026 camp count if summer 2026 camps run before submission; add AY2025-26 minor-enrollment figures to Q4 if available; re-add a "proposed Creative Career Fair" clause to Q6 only if the event is actually scheduled.
 7. Confirm current tenure-line ratio if you want Q5 to say more than the dated fall-2023 figure. Also spot-check that the department still pays Adobe CC subscriptions and still caps studios at 24 for 2026-27 (both are 2023 SRA facts stated in present tense, and the cap may interact with the Isle Hall build-out).
 8. Submit with EWU email; pick the BDes in Visual Communication Design entry in the Program Name dropdown.
-9. Refresh the Google Doc with the round-three answers (it still carries the pre-round-three text).
+9. Share the fresh round-three Google Doc with the chair, and trash (or clearly mark superseded) the old July 15 doc (1gM5Knlq…) so nobody edits the stale copy.
 
 ## Data Vintages
 
