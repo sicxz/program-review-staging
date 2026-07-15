@@ -4,7 +4,7 @@ Form: PRC/PRD Self Study Questions 2026/2027 (Google Form; 1,500-character limit
 
 **Status (July 15, 2026): all seven answers are final and verified.** Drafted from the DESN Dept folder, EWU's current strategic plan, and the May 2026 LinkedIn alumni check; fact-checked and revised through two adversarial review rounds (15 reviewers round one, 3 round two). Every answer is under the 1,500-character limit.
 
-- **Google Doc for editing:** https://docs.google.com/document/d/1ye56dKy-Sw_BVvBg2EpHuy7axy15H7coP--czEg1VXY/edit
+- **Google Doc for editing/review (full notes + answers, share this with the chair):** https://docs.google.com/document/d/1gM5KnlqEmtQY-Qy1J65UNwyB7qFhG4kNHwoGny62YjA/edit — supersedes the earlier answers-only Draft Answers doc
 - **Staging site:** `site/index.html` (restyled July 2026 with the scheduler-v2 design system: GitHub Primer + EWU crimson, Sora / IBM Plex Mono)
 - **Word doc:** `output/doc/DESN Program Review Self-Study Notes.docx`
 
